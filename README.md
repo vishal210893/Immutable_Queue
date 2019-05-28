@@ -8,8 +8,7 @@ We need to provide Google Analytic like services to our customers. Please provid
 4. Run with minimum downtime.
 5. Have the ability to reprocess historical data in case of bugs in the processing logic.
 ## Design Solution
-The detailed design can be accessed at
-[Design Document](src/application_architecture.pdf).
+The detailed design is in application_architecture.pdf.
 The system provides following APIs
 1. Events API Service: To record the events to underlying database
 2. Insights API Service: To retrieve the insights.
